@@ -19,7 +19,7 @@ h1{
   background-color: #61dafb;
   color: white;
 	font-size: 40px;
-	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
   border: 4px groove black;
   border-radius: 8px;
