@@ -1,7 +1,39 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-
+.com {
+  border: 4px groove black;  
+  border-radius: 8px;
+  background-color:darkcyan;
+  color: cornsilk;
+}
+h3 {
+  color: rgb(60, 93, 121);
+  text-decoration: underline;
+}
+h1{
+  background-color: #61dafb;
+  color: white;
+	font-size: 40px;
+	-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+  border: 4px groove black;
+  border-radius: 8px;
+  padding: 5px;
+}
+body{
+  background-color: grey;
+}
+p{
+  color:orchid;
+}
+.com p {
+  color: whitesmoke;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
