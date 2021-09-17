@@ -9,7 +9,9 @@
   border: 4px groove black;  
   border-radius: 8px;
   background-color:darkcyan;
-  color: cornsilk;
+  color: blue;
+  padding: 20px;
+  margin-bottom: 25px;
 }
 h3 {
   color: rgb(60, 93, 121);
@@ -24,6 +26,7 @@ h1{
   border: 4px groove black;
   border-radius: 8px;
   padding: 5px;
+  margin-top: 25px;
 }
 body{
   background-color: grey;
@@ -32,7 +35,7 @@ p{
   color:orchid;
 }
 .com p {
-  color: whitesmoke;
+  color: blue;
 }
 .App-logo {
   height: 40vmin;
